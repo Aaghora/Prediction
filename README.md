@@ -1,2 +1,2 @@
-# Sales_Prediction
-This is regarding Sales prediction and forecasting
+# Prediction
+This is regarding prediction and forecasting
